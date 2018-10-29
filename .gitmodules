@@ -1,0 +1,6 @@
+[submodule "lidgren-network-gen3"]
+	path = lidgren-network-gen3
+	url = https://github.com/lidgren/lidgren-network-gen3
+[submodule "VelcroPhysics"]
+	path = VelcroPhysics
+	url = https://github.com/VelcroPhysics/VelcroPhysics
